@@ -1,0 +1,2 @@
+# Airbnb-Prices-In-New-York-City-Effects-of-Neighborhood-and-Customer-Feedback-on-Businesses
+Applying Statistical Analysis to understand New York City’s competitive hotel and rental market. Specifically, the goal is to analyze and predict the prices of AirBnB listings based on various factors such as the location of the rental, the type of facility, online reviews about the facility, and much more.
